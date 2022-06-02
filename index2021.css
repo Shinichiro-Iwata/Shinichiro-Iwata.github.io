@@ -51,7 +51,7 @@ p.head {
         }
 
 p.menu {
-	font-size:0.75em;
+	font-size:0.87em;
         font-family:Georgia; 
         top:100px;
         margin-left:0;
@@ -193,7 +193,7 @@ h4 a:hover {
 	}
 
 p {
-	font-size:0.875em;
+	font-size:1em;
 	line-height:1.5em;
 	color:#555555;
 	margin-top:0em
@@ -237,7 +237,7 @@ p.1 a:hover {
 	}
 
 ul {
-        font-size:0.875em;
+        font-size:1em;
         color:#555555;
         font-family:Georgia;
         margin-top:-0.875em;
@@ -245,6 +245,11 @@ ul {
         margin-left:-1em;   
 	margin-bottom:1.5em; 
         }
+
+ul li{
+        padding-top:0.2em;
+        padding-bottom:0.2em;
+      } 
  
 ul a {
         color:#595857;
@@ -270,7 +275,7 @@ ul.1 {
         }
 
 address {
-	font-size:0.8em;
+	font-size:0.93em;
 	font-family:Georgia;
 	font-style:normal;
 	color:#ffffff;
