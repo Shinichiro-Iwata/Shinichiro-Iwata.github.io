@@ -243,18 +243,18 @@ p.1 a:hover {
         border-bottom:solid 0.2em #000000;
 	}
 
-ul {
+ul  {
         font-size:1em;
         color:#555555;
-        font-family:Georgia;
-        margin-top:-0.875em;
-        margin-right:1em;
-        margin-left:-1em;   
-	margin-bottom:1.5em; 
+        margin-left:-1em;
+        margin-bottom:0em; 
+        margin-top:-0.1em;
+        line-height:1.6em;
         }
+
 ul li{
-        padding-top:0.2em;
-        padding-bottom:0.2em;
+        padding-top:0.1em;
+        padding-bottom:0.1em;
       } 
 
 ul a {
