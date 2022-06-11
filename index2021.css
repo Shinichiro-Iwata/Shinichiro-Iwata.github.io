@@ -252,12 +252,11 @@ ul {
         margin-left:-1em;   
 	margin-bottom:1.5em; 
         }
-
 ul li{
-        padding-top:0.1em;
-        padding-bottom:0em;
+        padding-top:0.2em;
+        padding-bottom:0.2em;
       } 
- 
+
 ul a {
         color:#595857;
         text-decoration:none;
