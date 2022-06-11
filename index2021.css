@@ -250,8 +250,12 @@ ul  {
         margin-left:-1em;
         margin-bottom:0em; 
         margin-top:-0.875em;
-        line-height:2em;
         }
+
+ul li{
+        padding-top:0.1em;
+        padding-bottom:0.1em;
+      } 
 
 ul a {
         color:#595857;
