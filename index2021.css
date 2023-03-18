@@ -178,7 +178,7 @@ h3  {
         }
 
 h4  {
-	font-size:0.9em;
+	font-size:0.875em;
         line-height:1.6em;
 	font-weight:bold;
         color:#555555;
@@ -186,8 +186,7 @@ h4  {
         margin-top:1em;
         margin-left:0.2em;
         margin-bottom:0.1em;
-	padding-top: 1.0em;
-        }
+	}
 
 h4 a {
 	color:#555555;
